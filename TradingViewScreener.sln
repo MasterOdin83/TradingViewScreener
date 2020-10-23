@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingViewScreener", "TradingViewScreener\TradingViewScreener.csproj", "{1043B0DB-358D-409D-968E-D4A48D1912FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31B74A26-C037-4A68-B1F8-5964F5F6AAFE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1043B0DB-358D-409D-968E-D4A48D1912FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1043B0DB-358D-409D-968E-D4A48D1912FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1043B0DB-358D-409D-968E-D4A48D1912FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1043B0DB-358D-409D-968E-D4A48D1912FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C6C8F93-D6FE-4860-8791-5035BA5D0D22}
+	EndGlobalSection
+EndGlobal

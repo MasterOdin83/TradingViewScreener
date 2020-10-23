@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = warning
+
+# CA1062: Validate arguments of public methods
+dotnet_diagnostic.CA1062.severity = silent
+
+# CA1036: Override methods on comparable types
+dotnet_diagnostic.CA1036.severity = silent
+
+# CA1707: Identifiers should not contain underscores
+dotnet_diagnostic.CA1707.severity = silent
